@@ -1,0 +1,30 @@
+/* CSS HEX */
+/*
+--viridian: #6b9080ff;
+--cambridge-blue: #a4c3b2ff;
+--mint-green: #cce3deff;
+--azure-web: #eaf4f4ff;
+--mint-cream: #f6fff8ff;
+
+*/
+body { 
+  background-color: rgb(70, 139, 185);
+  color: rgb(248, 238, 217);
+
+}
+
+
+img{width: 300px;
+border: spx solid rgb(77, 59, 9);
+border-radius: 10px;
+
+}
+h1{color: rgb(120, 200, 224)    
+}
+h2{color: rgb(14, 33, 143);
+}
+h3{color: rgb(87, 74, 158);}
+
+    
+
+)
