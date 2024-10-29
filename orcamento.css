@@ -1,0 +1,25 @@
+td{
+    border: 1px rgb(96, 111, 199);
+    padding: 2px;
+    text-align: center;
+    background-color: azure;
+    border-radius: 6px;
+}
+
+th{
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(21, 167, 167);
+    border-radius: 6px;
+    color: beige;
+
+}
+table{
+    background-color: black;
+    width: 100%;
+    
+
+}
+body{
+    background-color: rgb(168, 194, 190);
+}
